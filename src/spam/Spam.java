@@ -12,7 +12,6 @@ public class Spam {
 	public static ExecutorService executor = Executors.newCachedThreadPool();
 	public static volatile int successes = 0;
 	public static volatile int failures = 0;
-	public static final String URL = "http://mojfree.tk/login.php";
 	
 	public static void main(String[] args) {
 		
