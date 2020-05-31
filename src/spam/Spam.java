@@ -24,8 +24,10 @@ public class Spam {
 			}
 			if (successes % 100 == 0 && successes != 0)
 				p("Done " + successes + " requests.");
-			if (failures > 250)
+			if (failures > 250) {
 				p("Too many failures - shutting program down to prevent resource wastage");
+				System.exit(-1);
+			}
 		}
 	}
 	
