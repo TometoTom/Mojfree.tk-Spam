@@ -9,7 +9,7 @@ It used to be the case that crackers could use a **credidential stuffing** metho
 
 ## To use:
 (Optional but highly recommended) - Use a VPN to protect yourself whilst running this program.
-1. Download the .jar file **or** compile it yourself.
+1. Download the [.jar file](https://github.com/TometoTom/Mojfree.tk-Spam/raw/master/src/Spam.jar) **or** compile it yourself.
 2. Open Windows Explorer
 3. Shift + Right Click
 4. Press "Open PowerShell window here"
